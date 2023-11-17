@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 高嘉琪
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Gao Jiaq Qi
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jia Qo
+last_name: Gao
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD
 
 # Organizations/Affiliations to display in About block
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Tonogji University
+    url: https://www.tongji.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -40,12 +40,12 @@ social:
     link: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD 
+    institution: Tongji University
+    date_start: 2020-01-01
+    date_end: 2024-06-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Write more than 8 CSSCI papers
     button:
       label: 'Read Thesis'
       url: 'https://example.com'
@@ -72,7 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
+  - position: PhD Dagongren
     company_name: GenCoin
     company_url: ''
     company_logo: ''
@@ -83,7 +83,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+  - position: Baker 
     company_name: X
     company_url: ''
     company_logo: ''
@@ -169,5 +169,5 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently PhD student at University. I am looking forward jobs.
 {style="text-align: justify; font-size: 0.8em;"}
