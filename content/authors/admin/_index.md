@@ -43,7 +43,7 @@ education:
   - area: PhD 
     institution: Tongji University
     date_start: 2020-01-01
-    date_end: 2024-06-31
+    date_end: 2020-12-31
     summary: |
       Write more than 8 CSSCI papers
     button:
