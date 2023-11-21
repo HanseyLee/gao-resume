@@ -6,38 +6,27 @@ title: 高嘉琪
 name_pronunciation: Gao Jiaq Qi
 
 # Full name (for SEO)
-first_name: Jia Qo
+first_name: Jia Qi
 last_name: Gao
 
 # Status emoji
 status:
-  icon: 🍺
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD
+role: Ph.D. candidate
 
 # Organizations/Affiliations to display in About block
 organizations:
-  - name: Tonogji University
-    url: https://www.tongji.edu.cn/
+  - name: Tongji University School of Humanities
+    url: https://sal.tongji.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-social:
-  - icon: at-symbol
-    link: 'mailto:your-email@example.com'
-  - icon: x
-    link: https://twitter.com/GetResearchDev
-    label: Follow me on Twitter
-  - icon: github
-    link: https://github.com/gcushen
-  - icon: linkedin
-    link: https://www.linkedin.com/
-  - icon: instagram
-    link: https://www.instagram.com/
+
 
 education:
   - area: PhD 
