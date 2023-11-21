@@ -67,8 +67,8 @@ education:
 education:
   - area: Ph.D. Programme
     institution: Tongji University School of Humanities
-    date_start: 2020-09
-    date_end: 2024-06
+    date_start: 2020-09-01
+    date_end: 2024-06-01
     summary: |
       -  Major: Philosophy (Aesthetics).
       -  Research specialization: SciTech Ethics, Cultural Industry, Digital Culture, Cultural innovation.
