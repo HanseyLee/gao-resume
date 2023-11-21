@@ -29,12 +29,15 @@ organizations:
 
 
 education:
-  - area: Ph.D. Programme, 
-    institution: Tongji University
-    date_start: 2020-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. Programme
+    institution: Tongji University School of Humanities
+    date_start: 2020-09
+    date_end: 2024-06
     summary: |
-      Write more than 8 CSSCI papers
+      -  Major: Philosophy (Aesthetics).
+      -  Research specialization: SciTech Ethics, Cultural Industry, Digital Culture, Cultural innovation.
+      -  Courses included: Cultural Industry Research Topics, Studies in Philosophy of Science, Frontier Issues of in Philosophy.
+      
     button:
       label: 'Read Thesis'
       url: 'https://example.com'
@@ -60,6 +63,21 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+education:
+  - area: Ph.D. Programme
+    institution: Tongji University School of Humanities
+    date_start: 2020-09
+    date_end: 2024-06
+    summary: |
+      -  Major: Philosophy (Aesthetics).
+      -  Research specialization: SciTech Ethics, Cultural Industry, Digital Culture, Cultural innovation.
+      -  Courses included: Cultural Industry Research Topics, Studies in Philosophy of Science, Frontier Issues of in Philosophy.
+      
+    button:
+      label: 'Read Thesis'
+      url: 'https://example.com'
+
 work:
   - position: PhD Dagongren
     company_name: GenCoin
