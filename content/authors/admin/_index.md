@@ -27,10 +27,10 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 social:
-  - icon: CNKI
-    link: https://au.cnki.net/author/personalInfo/000058374447
-   - icon: email
-     link:  "mailto:gao.jiaqi@tongji.edu.cn"  
+  - icon:CNKI
+    link:https://au.cnki.net/author/personalInfo/000058374447
+   - icon:email
+     link:"mailto:gao.jiaqi@tongji.edu.cn"  
 
 education:
   - area: Ph.D. Programme
