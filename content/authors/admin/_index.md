@@ -30,7 +30,9 @@ social:
   - icon:CNKI
     link:https://au.cnki.net/author/personalInfo/000058374447
    - icon:email
-     link:"mailto:gao.jiaqi@tongji.edu.cn"  
+     link:"mailto:gao.jiaqi@tongji.edu.cn"
+   - icon: phone
+     link:www.baidu.com
 
 education:
   - area: Ph.D. Programme
