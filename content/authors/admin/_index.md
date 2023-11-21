@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 social:
   - icon: CNKI
-    link: https://kns.cnki.net/kcms2/author/detail?v=6xaVI2TORM3BajN847b2I-b7Hr_58M7hit8wVru3KGSVZhVElFaelGnKSOwMFqpVmeL6cjbOqncCClZGu8AEGuO1zTNmFKhnFs57prMqwqYkbjlfii2GKhwcWKVmwIy7&uniplatform=NZKPT&language=CHS
+    link: https://au.cnki.net/author/personalInfo/000058374447
    - icon: email
      link:  "mailto:gao.jiaqi@tongji.edu.cn"  
 
